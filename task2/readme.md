@@ -70,7 +70,7 @@ python weather_explorer.py London --units imperial
 
 ---
 
-## Example Output
+## images output
 
 ```
 <img width="1517" height="850" alt="Screenshot 2026-07-18 203258" src="https://github.com/user-attachments/assets/64ae3cea-5421-4a16-9786-c9a97449b538" />
