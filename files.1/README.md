@@ -76,6 +76,6 @@ All of the above log lines are also written automatically to
 ## License
 
 MIT — free to use, modify, and share.
-## report
+## Report
 [InternSpark_Task1_File_Automation.docx](https://github.com/user-attachments/files/30153319/InternSpark_Task1_File_Automation.docx)
 
